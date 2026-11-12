@@ -1,0 +1,13 @@
+<template>
+    <div class="grid grid-cols-1 text-center">
+        <h3 class="mb-6 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Have Question ? Get in touch!</h3>
+        <p class="text-slate-400 max-w-xl mx-auto">Discover a world of knowledge and opportunities with our online education platform pursue a new career.</p>
+        <div class="mt-6">
+            <NuxtLink to="/contact" class="h-10 px-5 tracking-wide inline-flex items-center justify-center font-medium rounded-md bg-violet-600 text-white"><i class="iconoir-phone align-middle me-2"></i> Contact us</NuxtLink>
+        </div>
+    </div>
+</template>
+
+<script setup>
+
+</script>

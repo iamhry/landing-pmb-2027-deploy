@@ -1,0 +1,37 @@
+{
+  "name": "landing-pmb-2027-deploy",
+  "version": "1.0.0",
+  "description": "Edupath - Nuxt Js Online Courses & Education Template",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.9",
+    "chart.js": "^4.5.1",
+    "feather-icons": "^4.29.2",
+    "nuxt": "^3.14.1592",
+    "swiper": "^11.1.15",
+    "tiny-slider": "^2.9.4",
+    "vue": "latest",
+    "vue-chartjs": "^5.3.3",
+    "vue-countup-v3": "^1.4.2",
+    "vue-easy-lightbox": "^1.19.0",
+    "vue-router": "latest",
+    "vue-typewriter-effect": "^1.0.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/robots": "^5.6.3",
+    "@nuxtjs/sitemap": "^7.4.9",
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "sass": "^1.81.0",
+    "tailwindcss": "^3.4.15"
+  }
+}
